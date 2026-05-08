@@ -1,6 +1,6 @@
 # repos.txt.example – copy to repos.txt and edit
 
-Format: owner/repo
+ Format: owner/repo
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
